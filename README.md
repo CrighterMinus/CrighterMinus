@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrighterMinus
+- 👋 Hi, I’m Mark McConnell // @CrighterMinus
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently studying CS at Purdue University
 - 📫 To reach me: EMAIL: sirelevator@gmail.com DISCORD: @crighter
